@@ -1,6 +1,6 @@
 # Guide to Creating (and Publishing) Projects
 
-![Photo](/Users/victorialarson/Desktop/Dev_League/Repos/Gitmeme.png)
+![Photo](Gitmeme.png)
 
 
 Each sprint in the course will involve creating a new project. This template includes two resources.
