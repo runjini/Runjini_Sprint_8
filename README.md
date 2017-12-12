@@ -1,5 +1,8 @@
 # Guide to Creating (and Publishing) Projects
 
+![Photo](/Users/victorialarson/Desktop/Dev_League/Repos/Gitmeme.png)
+
+
 Each sprint in the course will involve creating a new project. This template includes two resources.
 1. Instructions on how to create your project locally and publish it to your personal github.
 1. A template for the information you want to share about your project (at the bottom below these instructions which you will eventually delete)
