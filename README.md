@@ -77,11 +77,13 @@ __Note:__ Below is the template you will be using for all of your projects. Just
 
 [comment]: <> (Template below here, you can delete this line and everything below it.)
 
-# [Insert Title Here] For example: Chicken wing-spans in relation to their Jurassic Ancestors
-
-[Insert Date Here]
+# Descriptive Title for your Project (Repo should have a similar name)
 
 **Author:** [Author Name Here]
 
+__*Project Description:*__
+*A description of the project and what it is intended to do*
 
-__*Project Description:*__ [Project Description Here] For example: Analyzing present day *Chicken's* wing-spans in comparison to Jurassic era *Dinosaurs.*
+*A description of the files attached, and any instructions for someone downloading it to use*
+
+*Here is a description of other things I hope to do with this project for future reference*
